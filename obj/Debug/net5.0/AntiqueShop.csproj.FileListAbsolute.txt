@@ -1,0 +1,16 @@
+C:\Users\ricki\workspace\csharp\AntiqueShop\bin\Debug\net5.0\AntiqueShop.exe
+C:\Users\ricki\workspace\csharp\AntiqueShop\bin\Debug\net5.0\AntiqueShop.deps.json
+C:\Users\ricki\workspace\csharp\AntiqueShop\bin\Debug\net5.0\AntiqueShop.runtimeconfig.json
+C:\Users\ricki\workspace\csharp\AntiqueShop\bin\Debug\net5.0\AntiqueShop.runtimeconfig.dev.json
+C:\Users\ricki\workspace\csharp\AntiqueShop\bin\Debug\net5.0\AntiqueShop.dll
+C:\Users\ricki\workspace\csharp\AntiqueShop\bin\Debug\net5.0\ref\AntiqueShop.dll
+C:\Users\ricki\workspace\csharp\AntiqueShop\bin\Debug\net5.0\AntiqueShop.pdb
+C:\Users\ricki\workspace\csharp\AntiqueShop\obj\Debug\net5.0\AntiqueShop.csprojAssemblyReference.cache
+C:\Users\ricki\workspace\csharp\AntiqueShop\obj\Debug\net5.0\AntiqueShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricki\workspace\csharp\AntiqueShop\obj\Debug\net5.0\AntiqueShop.AssemblyInfoInputs.cache
+C:\Users\ricki\workspace\csharp\AntiqueShop\obj\Debug\net5.0\AntiqueShop.AssemblyInfo.cs
+C:\Users\ricki\workspace\csharp\AntiqueShop\obj\Debug\net5.0\AntiqueShop.csproj.CoreCompileInputs.cache
+C:\Users\ricki\workspace\csharp\AntiqueShop\obj\Debug\net5.0\AntiqueShop.dll
+C:\Users\ricki\workspace\csharp\AntiqueShop\obj\Debug\net5.0\ref\AntiqueShop.dll
+C:\Users\ricki\workspace\csharp\AntiqueShop\obj\Debug\net5.0\AntiqueShop.pdb
+C:\Users\ricki\workspace\csharp\AntiqueShop\obj\Debug\net5.0\AntiqueShop.genruntimeconfig.cache
